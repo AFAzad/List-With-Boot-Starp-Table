@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/List-With-Boot-Starp-Table/static/css/main.85768c17.css",
+    "main.js": "/List-With-Boot-Starp-Table/static/js/main.a3eca410.js",
+    "static/js/787.0a43da3c.chunk.js": "/List-With-Boot-Starp-Table/static/js/787.0a43da3c.chunk.js",
+    "index.html": "/List-With-Boot-Starp-Table/index.html",
+    "main.85768c17.css.map": "/List-With-Boot-Starp-Table/static/css/main.85768c17.css.map",
+    "main.a3eca410.js.map": "/List-With-Boot-Starp-Table/static/js/main.a3eca410.js.map",
+    "787.0a43da3c.chunk.js.map": "/List-With-Boot-Starp-Table/static/js/787.0a43da3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.a3eca410.js"
+  ]
+}
